@@ -1,23 +1,7 @@
-<h2> Hi, I'm Karol! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mng3dWZtMmNuNnB3bHlxY3IxemVvYnIwNHRmc2w1eXJpc2pudHplYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dDlujYe39C9FodOxBG/giphy.gif" width="40"></h2>
+Hello there 👋
+An Electrical Engineering and Automation student at Cracow University of Technology.
+Embedded Systems & STM32 hobbyist;
 
-<p><em><b>Electrical Engineering and Automation</b> student at the <a href="https://www.pk.edu.pl/index.php?lang=en">Cracow University of Technology</a> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzV0MjI0Y2s1MTFkYjZ1Z3c1a2ZvbXplbThwNmVvZGRnMmxxeDJlciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/26BRyTyg4ld1A0wQ8/giphy.gif" width = "30"></em></p>
-
-<p> I have a solid theoretical foundation in electronics, and in my free time I'm developing my skills through hands-on projects.</p>
-
-<p> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dncxb2ZpY2ZzaW1ubXJwejJlenBrbGpiOHc2M2ZpbDRwenR4eDByMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="30">My goal is to use my skills and knowledge in the industry where I can work on real-world engineering challenges.</p>
-
----
-
-<h3>My Toolkit 🧰</h3>
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"/>
-</p>
-
----
-
-<h3>Check out my projects below! 👇</h3>
+⚙️ I use daily: C / C++ Language, STM32CubeIDE & HAL, Git & Version Control
+🌍 My goal is to use my skills and knowledge in the industry where I can work on real-world engineering challenges
+👇 Feel free to check my projects below!
