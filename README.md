@@ -2,9 +2,9 @@
 
 <p><em><b>Electrical Engineering and Automation</b> student at the <a href="https://www.pk.edu.pl/index.php?lang=en">Cracow University of Technology</a> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzV0MjI0Y2s1MTFkYjZ1Z3c1a2ZvbXplbThwNmVvZGRnMmxxeDJlciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/26BRyTyg4ld1A0wQ8/giphy.gif" width = "30"></em></p>
 
-<p> I have a solid theoretical foundation in electronics and electromagnetism, and in my free time I'm developing my skills through hands-on projects.</p>
+<p> I have a solid theoretical foundation in electronics, and in my free time I'm developing my skills through hands-on projects.</p>
 
-<p> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dncxb2ZpY2ZzaW1ubXJwejJlenBrbGpiOHc2M2ZpbDRwenR4eDByMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="30">My mission is to land my first job or internship in the industry where I can work on real-world engineering challenges.</p>
+<p> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dncxb2ZpY2ZzaW1ubXJwejJlenBrbGpiOHc2M2ZpbDRwenR4eDByMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JtBiXxBk46YfxGkPfB/giphy.gif" width="30">My goal is to use my skills and knowledge in the industry where I can work on real-world engineering challenges.</p>
 
 ---
 
